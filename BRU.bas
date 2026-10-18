@@ -250,9 +250,6 @@ End Sub
 
 
 
-' BRU ExecuteLines - supports lin1$ through lin100$
-' Commands 1-5, variables Var01 through Var15
-' Replace your current ExecuteLines sub with this one.
 
 Sub ExecuteLines
 
